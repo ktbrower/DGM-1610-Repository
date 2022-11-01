@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27330b7f9f39c7b47858795716c1303b, type: 3}
   m_Name: Katie
   m_EditorClassIdentifier: 
-  name: 
-  description: 
-  health: 0
+  name: Katie
+  description: 'Wolverine, Streamer, Friend. '
+  artwork: {fileID: 21300000, guid: 0b1a5888542107648a1dc8273adf00d1, type: 3}
+  health: 10
