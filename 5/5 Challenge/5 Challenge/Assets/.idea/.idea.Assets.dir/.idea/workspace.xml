@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d003e919-5c6b-465f-835d-61d341f07dcc" name="Changes" comment="" />
+    <list default="true" id="ea9ca84b-a70b-4f23-ae66-4c0bcfd511ee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../5 Challenge/5 Challenge/Assets/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TriggerEventsBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TriggerEventBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GyfDUIyIN7JOW41pIOzmAq7FR0" />
+  <component name="ProjectId" id="2H0ptmg3QrN8umrjiJUIkf64WjJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,30 +25,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.C#",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
-    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\Program Files\2021.3.12f1\Editor\Unity.exe" />
-      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\DGM 1610\DGM-1610-Repository\5\Real 5 Lab\5 Lab Final&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
-      <option name="WORKING_DIRECTORY" value="D:\DGM 1610\DGM-1610-Repository\5\Real 5 Lab\5 Lab Final" />
+  <component name="RunManager" selected="Attach to Unity Editor.Unity Editor.">
+    <configuration name="Testing" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <method v="2" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
-      <option name="allowRunningInParallel" value="false" />
-      <option name="listenPortForConnections" value="true" />
-      <option name="pid" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <method v="2" />
-    </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
@@ -58,17 +51,31 @@
       </option>
       <method v="2" />
     </configuration>
+    <configuration name="Unity Editor." type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Executable.Testing" />
+      <item itemvalue="Attach to Unity Editor.Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Unity Editor." />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d003e919-5c6b-465f-835d-61d341f07dcc" name="Changes" comment="" />
-      <created>1667365651485</created>
+      <changelist id="ea9ca84b-a70b-4f23-ae66-4c0bcfd511ee" name="Changes" comment="" />
+      <created>1667432075410</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667365651485</updated>
-      <workItem from="1667365651496" duration="294000" />
-      <workItem from="1667429552813" duration="2184000" />
+      <updated>1667432075410</updated>
+      <workItem from="1667432081936" duration="1727000" />
     </task>
     <servers />
   </component>
@@ -76,7 +83,6 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -89,8 +95,7 @@
       </map>
     </option>
   </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
