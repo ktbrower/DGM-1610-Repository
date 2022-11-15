@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5620001871736995908}
   - component: {fileID: 4584336560445047705}
   - component: {fileID: 5547100567825314150}
+  - component: {fileID: 1374604621703336278}
   m_Layer: 0
   m_Name: Bolt_Container
   m_TagString: Untagged
@@ -46,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 535bb1bb92f1a604f9aadc4ece911594, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
+  speed: 5
 --- !u!114 &5547100567825314150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60,7 +61,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBounds: 30
-  lowerBounds: -10
+  lowerBounds: -20
+--- !u!114 &1374604621703336278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094985019695913275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7366dc5973d20546baf8b1c2a9d83a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  horizontalInput: 0
+  speed: 10
+  xRange: 47
+  blaster: {fileID: 0}
+  laserBolt: {fileID: 0}
 --- !u!1001 &2544669025174884534
 PrefabInstance:
   m_ObjectHideFlags: 0
