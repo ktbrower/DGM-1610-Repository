@@ -12,7 +12,9 @@ public class PlayerController : MonoBehaviour
     public float xRange =47;
 
     public Transform blaster;
-    public GameObject laserBolt; 
+    public GameObject laserBolt;
+
+    public GameManager gameManager;
     
 
     // Update is called once per frame
