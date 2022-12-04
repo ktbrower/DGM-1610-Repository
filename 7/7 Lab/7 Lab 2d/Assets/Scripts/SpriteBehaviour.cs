@@ -5,15 +5,15 @@ using UnityEngine;
 [RequireComponent(typeof(SpriteRenderer))]
 public class SpriteBehaviour : MonoBehaviour
 {
-   private SpriteRenderer rendererObj;
+   private SpriteRenderer _rendererObj;
 
    private void Start()
    {
-      rendererObj = GetComponent<SpriteRenderer>();
+      _rendererObj = GetComponent<SpriteRenderer>();
    }
 
    public void ChangeRendererColor(ColorID obj)
    {
-      rendererObj.color = obj.value;
+      _rendererObj.color = obj.value;
    }
 }
